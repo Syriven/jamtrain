@@ -4,6 +4,7 @@ open System
 open Microsoft.Xna.Framework
 open Microsoft.Xna.Framework.Graphics
 open Microsoft.Xna.Framework.Input
+open PTHexGrid
 
 type Sprite =
     {Texture: Texture2D; Size: Point; Offset: Point}

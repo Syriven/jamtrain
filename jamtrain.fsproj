@@ -6,6 +6,8 @@
   <ItemGroup>
     <Compile Include="Utils.fs" />
     <Compile Include="HexGrid.fs" />
+    <Compile Include="PTHexGrid.fs" />
+    <Compile Include="Types.fs" />
     <Compile Include="Game1.fs" />
     <Compile Include="Program.fs" />
     <None Include="Content/Content.mgcb" />
